@@ -1,0 +1,7 @@
+main.c:59:6:secure_toggle_led	8	static
+main.c:63:52:unsecure_code	16	static
+main.c:83:5:main	8	static
+main.c:127:6:SystemClock_Config	144	static
+main.c:175:13:MX_USART2_UART_Init	8	static
+main.c:223:13:MX_GPIO_Init	48	static
+main.c:258:6:Error_Handler	8	static,ignoring_inline_asm
